@@ -1,0 +1,8 @@
+Dear Kash,
+ 
+These two items should both be contained in the GTFS zip folder available at this link. The zip folder contains a transfers.txt file, which lists all connected stations including their walking times in seconds. Moreover, it contains a stops.txt file, which lists all stops in the network including the latitude and longitude coordinates.
+ 
+I hope this helps.
+ 
+Best regards,
+Steffen
